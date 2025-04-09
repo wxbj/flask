@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6cbf4c8e-d92f-46c5-ad89-1cdcdcf33ed6" name="Default Changelist" comment="commit to start running">
-      <change afterPath="$PROJECT_DIR$/flask_uwsgi.ini" afterDir="false" />
+    <list default="true" id="6cbf4c8e-d92f-46c5-ad89-1cdcdcf33ed6" name="Default Changelist" comment="add uwsgi">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask_uwsgi.ini" beforeDir="false" afterPath="$PROJECT_DIR$/flask_uwsgi.ini" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -274,7 +274,7 @@
       <workItem from="1744091725154" duration="604000" />
       <workItem from="1744102196884" duration="1380000" />
       <workItem from="1744122234374" duration="821000" />
-      <workItem from="1744182887957" duration="1441000" />
+      <workItem from="1744182887957" duration="3119000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <option name="closed" value="true" />
@@ -292,7 +292,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744183581960</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add uwsgi">
+      <option name="closed" value="true" />
+      <created>1744188233014</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1744188233014</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -301,7 +309,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
     <MESSAGE value="commit to start running" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit to start running" />
+    <MESSAGE value="add uwsgi" />
+    <option name="LAST_COMMIT_MESSAGE" value="add uwsgi" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

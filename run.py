@@ -6,6 +6,7 @@ app = create_app()
 
 @app.route('/')
 def start():
+    print("start running")
     return render_template("index.html")
 
 
